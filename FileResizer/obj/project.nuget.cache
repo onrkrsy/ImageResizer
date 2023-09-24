@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "iW+cPSPzW29HH4zm8m/Z01xIH1XJm+l6b+f0dQEYcYwEIU18mYz1vKJrN8wcRhqeu+2aNnrm/2HZ8/S77jjndg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\OnurKARASOY\\Documents\\Projects\\PayshieldCore\\FileResizer\\FileResizer\\ImageResizer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\OnurKARASOY\\.nuget\\packages\\microsoft.win32.systemevents\\8.0.0-rc.1.23419.4\\microsoft.win32.systemevents.8.0.0-rc.1.23419.4.nupkg.sha512",
+    "C:\\Users\\OnurKARASOY\\.nuget\\packages\\system.drawing.common\\8.0.0-rc.1.23419.5\\system.drawing.common.8.0.0-rc.1.23419.5.nupkg.sha512"
+  ],
+  "logs": []
+}
